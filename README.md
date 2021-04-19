@@ -6,11 +6,15 @@ This repository has the supplemental materials for the article
 
 by [Hugo Caerols](https://ingenieria.uai.cl/profesor/hugo-caerols/), [Rodrigo A. Carrasco](https://www.raxlab.science/members/rodrigo-a.-carrasco/), and [Felipe Asenjo](https://ingenieria.uai.cl/profesor/felipe-asenjo/).
 
-## Version 1.0 - 2021-04-19
+---
 
-Currently, all supplemental files are GeoGebra .ggb files, created with [GeoGebra 5.0](https://www.geogebra.org/).
+## Version 1.0
+
+### Update 2021-04-19
+- Uploaded GeoGebra files for distances and areas.
 
 ## Files in this repository:
+Currently, all supplemental files are GeoGebra .ggb files, created with [GeoGebra 5.0](https://www.geogebra.org/).
 - **distances.ggb**: estimating distances over a photograph of the Moon, using spherical geometry.
 - **areas.ggb**: estimating areas on features in a photograph of the Moon, using spherical geometry.
 
