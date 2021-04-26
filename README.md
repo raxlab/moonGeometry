@@ -6,6 +6,12 @@ This repository has the supplemental materials for the article
 
 by [Hugo Caerols](https://ingenieria.uai.cl/profesor/hugo-caerols/), [Rodrigo A. Carrasco](https://www.raxlab.science/members/rodrigo-a.-carrasco/), and [Felipe Asenjo](https://ingenieria.uai.cl/profesor/felipe-asenjo/).
 
+## Version 1.1
+
+### Update 2021-04-26
+- Updated GeoGebra files for distances and areas with easier to follow instructions and calculations and new Lunar photograph.
+- Added a reference Lunar Photograph.
+
 ## Version 1.0
 
 ### Update 2021-04-19
