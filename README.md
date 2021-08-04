@@ -11,7 +11,7 @@ Paper information available here: [summary](https://www.raxlab.science/publicati
 ## Version 1.3
 
 ### Update 2021-08-04
-- Added the extended version of the paper accepted for publication at the American Journal of Physics.
+- Added the extended version of the paper accepted for publication at the [American Journal of Physics](https://aapt.scitation.org/journal/ajp).
 
 ## Version 1.2
 
