@@ -6,6 +6,13 @@ This repository has the supplemental materials for the article
 
 by [Hugo Caerols](https://ingenieria.uai.cl/profesor/hugo-caerols/), [Rodrigo A. Carrasco](https://www.raxlab.science/members/rodrigo-a.-carrasco/), and [Felipe Asenjo](https://ingenieria.uai.cl/profesor/felipe-asenjo/).
 
+Paper information available here: [summary](https://www.raxlab.science/publication/caerols-2021-moon-ajp/).
+
+## Version 1.3
+
+### Update 2021-08-04
+- Added the extended version of the paper accepted for publication at the American Journal of Physics.
+
 ## Version 1.2
 
 ### Update 2021-05-07
