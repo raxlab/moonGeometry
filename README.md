@@ -11,11 +11,11 @@ Paper information available here: [summary](https://www.raxlab.science/publicati
 
 ## Version 1.3
 
-### Update 2021-08-04
-- Added the extended version of the paper accepted for publication at the [American Journal of Physics](https://aapt.scitation.org/journal/ajp).
-
 ### Update 2022-01-07
 - Minor update to connect the repository with Zenodo to get a DOI.
+
+### Update 2021-08-04
+- Added the extended version of the paper accepted for publication at the [American Journal of Physics](https://aapt.scitation.org/journal/ajp).
 
 ## Version 1.2
 
