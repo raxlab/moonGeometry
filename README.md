@@ -1,4 +1,6 @@
+You can cite this dataset using the following DOI:
 [![DOI](https://zenodo.org/badge/359558759.svg)](https://zenodo.org/badge/latestdoi/359558759)
+
 # Teaching Non-Euclidean Geometry using the Moon :first_quarter_moon:
 
 This repository has the supplemental materials for the article
