@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/359558759.svg)](https://zenodo.org/badge/latestdoi/359558759)
 # Teaching Non-Euclidean Geometry using the Moon :first_quarter_moon:
 
 This repository has the supplemental materials for the article
@@ -12,6 +13,9 @@ Paper information available here: [summary](https://www.raxlab.science/publicati
 
 ### Update 2021-08-04
 - Added the extended version of the paper accepted for publication at the [American Journal of Physics](https://aapt.scitation.org/journal/ajp).
+
+### Update 2022-01-07
+- Minor update to connect the repository with Zenodo to get a DOI.
 
 ## Version 1.2
 
